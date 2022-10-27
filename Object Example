@@ -5,7 +5,7 @@ const marissa = {
     job: 'soldier',
     friends: ['Micheal', 'Peter', 'Steven']
 };
-console.log(jonas);
+console.log(marissa);
 
 // Object can group different variables
 // The order of the values in an object doesn't matter when you want to retrieve them
