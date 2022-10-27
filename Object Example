@@ -1,0 +1,10 @@
+const marissa = {
+    firstName: 'Marissa',
+    lastName: 'Mack',
+    age: 2022 - 1995,
+    job: 'soldier',
+    friends: ['Micheal', 'Peter', 'Steven']
+};
+
+// Object can group different variables
+// The order of the values in an object doesn't matter when you want to retrieve them
