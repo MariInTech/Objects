@@ -1,0 +1,16 @@
+const marissa = {
+    firstName: 'Marissa',
+    lastName: 'Mack',
+    age: 2022 - 1995,
+    job: 'soldier',
+    friends: ['Micheal', 'Peter', 'Steven']
+};
+console.log(marissa);
+
+// Dot Notation
+console.log(marissa.lastName);
+
+// Bracket Notation
+console.log(marissa['lastName']);
+
+//The conole will display Mack
